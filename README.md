@@ -5,6 +5,22 @@ pcfcms是基于TP6.0框架为核心开发的免费+开源的企业内容管理�
 ## 官网网站
 www.pcfcms.com
 
+### 导航栏目
+[使用手册](http://help.pcfcms.com)
+ | [安装说明](/readme/安装说明.md)
+ | [论坛地址](http://bbs.pcfcms.com)
+ | [官网地址](http://www.pcfcms.com)
+ | [TP6开发手册](https://www.kancloud.cn/manual/thinkphp6_0/content)
+ | [服务器](https://www.aliyun.com/minisite/goods?userCode=m9b66lzd)
+ | [授权价格](http://www.pcfcms.com)
+- - -
+
+### QQ交流群
+ PCFCMS QQ交流群:587884271<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=961b6839e392f1cb4f25c32af12fdc861bca830e89649b2fcb6ec32ba32c6550"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="tp6.0企业建站系统交流" title="tp6.0企业建站系统交流"></a>
+
+#### 演示站后台:[<a href='http://demo.pcfcms.com' target="_blank"> 查看 </a>]       
+<a href='http://demo.pcfcms.com/login.php' target="_blank">http://demo.pcfcms.com/login.php</a>  账号：pcfcms  密码：pcfcms.com
+
 ## 系统截图
 <img src="https://images.gitee.com/uploads/images/2020/0606/141023_622ad2be_306081.png">
 <img src="https://images.gitee.com/uploads/images/2020/0606/141036_d758f52f_306081.png">
@@ -14,7 +30,7 @@ www.pcfcms.com
 <img src="https://images.gitee.com/uploads/images/2020/0606/141128_1a88149b_306081.png">
 <img src="https://images.gitee.com/uploads/images/2020/0606/141148_024b68d4_306081.png">
 
-###   :tw-1f50a: 开源版使用须知
+### 开源版使用须知
 
 1.允许用于个人学习、毕业设计、教学案例、公益事业;
 
@@ -22,7 +38,7 @@ www.pcfcms.com
 
 3.禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负。
 
-### 商业版与 :tw-1f19a: 开源版差异
+### 商业版与开源版差异
 
 商业授权及定制服务版：http://www.pcfcms.com
 
