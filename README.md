@@ -1,35 +1,58 @@
 pcfcms  v2.0.0
 ===============
-YzmCMS是一款轻量级开源内容管理系统，它采用自主研发的框架YZMPHP开发。基于PHP+Mysql架构，并采用MVC框架式开发的一款开源高效的内容管理系统，可运行在Linux、Windows、MacOSX、Solaris等各种平台上。
-
-它可以让您不需要任何专业技术轻松搭建您需要的网站，操作简单，很容易上手，快捷方便的后台操作让您10分钟就会建立自己的爱站。在同类产品的比较中，YzmCMS更是凸显出了体积轻巧、功能强大、源码简洁、系统安全等特点，无论你是做企业网站、新闻网站、个人博客、门户网站、行业网站、电子商城等，它都能完全胜任，而且还提供了非常方便的二次开发体系，是一款全能型的建站系统！
+pcfcms是基于TP6.0框架为核心开发的免费+开源的企业内容管理系统，专注企业建站用户需求提供海量各行业模板，降低中小企业网站建设、网络营销成本，致力于打造用户舒适的建站体验
 
 ## 官网网站
-www.yzmcms.com
+www.pcfcms.com
 
 ## 系统截图
-<img src="https://www.yzmcms.com/doc/images/1.png">
-<img src="https://www.yzmcms.com/doc/images/2.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141023_622ad2be_306081.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141036_d758f52f_306081.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141050_8ca012b9_306081.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141100_1379006f_306081.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141114_2c7d2e00_306081.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141128_1a88149b_306081.png">
+<img src="https://images.gitee.com/uploads/images/2020/0606/141148_024b68d4_306081.png">
 
-## 系统特点
+###   :tw-1f50a: 开源版使用须知
 
-### 自主研发
-YzmCMS系统采用自主研发的YZMPHP框架开发，不依赖其他任何框架，就是这么任性！
+1.允许用于个人学习、毕业设计、教学案例、公益事业;
 
-### 源码简洁
-无论是YZMPHP还是YzmCMS，所有源码风格全部统一，源码非常干净、简洁、无冗余代码！
+2.如果商用必须保留版权信息，请自觉遵守。开源版不适合商用，商用请购买商业版;
 
-### 开发灵活
-YzmCMS系统采用MVC模块式开发，增加了系统的维护性、可扩展性，使二次开发变得简单、容易。
+3.禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负。
 
-### 100%开源
-YzmCMS系统是100%开源的PHP程序，保证系统的代码更健壮和更安全。
+### 商业版与 :tw-1f19a: 开源版差异
 
-### 轻量级
-YzmCMS系统在保持强大的功能前提下，整体压缩包仅不到5MB，使您可以快速了解和研究它！
+商业授权及定制服务版：http://www.pcfcms.com
 
-## 版权信息
+### 技术亮点
+~~~
+    1.SEO 参数  支持设置每篇文章的「页面title/关键词/描述文字/静态页面名称」；
+    2.文章管理  支持文章的「发布、删除、移动、复制、排序、推荐、置顶、隐藏、显示」操作；
+    3.伪静态 优于静态页面，体验效果一样且无需生成；（推荐）
+    4.SiteMap 可以生成 xml 和 txt 的网站地图 SiteMap。可以随着网站内容的更新而自动生成。
+    5.生成静态，利于seo优化；（推荐）
+    6.后台网址隐藏  后台登录页面的路径名称可以修改，用于隐藏后台登录网址，提高网站安全性能；
+    7.后台多任务窗口化操作界面；
+    8.高频数据缓存；
+    9.数据备份和恢复；
+    10.后台文件管理，带代码高亮，无需开发工具在线编辑代码；
+    11.一键安装自动检查系统环境一键安装；
+~~~
 
-版权所有Copyright © 2014-2020 by 袁志蒙工作室 (https://www.yzmcms.com)
+### 特别鸣谢
+感谢以下的项目,排名不分先后
+
+ThinkPHP：http://www.thinkphp.cn
+
+Bootstrap：http://getbootstrap.com
+
+layui: https://www.layui.com/
+
+### 版权信息
+本项目包含的第三方源码和二进制文件之版权信息另行标注。
+
+版权所有Copyright © 2020-2021 by PCFCMS (http://www.pcfcms.com)
 
 All rights reserved。
