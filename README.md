@@ -1,5 +1,8 @@
-pcfcms  v2.0.0
-===============
+<h1 align="center"> pcfcms企业建站系统</h1> 
+<p align="center">    
+    <b>如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！</b>
+</p>
+
 pcfcms是基于TP6.0框架为核心开发的免费+开源的企业内容管理系统，专注企业建站用户需求提供海量各行业模板，降低中小企业网站建设、网络营销成本，致力于打造用户舒适的建站体验
 
 ## 官网网站
@@ -16,7 +19,9 @@ www.pcfcms.com
 - - -
 
 ### QQ交流群
- PCFCMS QQ交流群:587884271<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=961b6839e392f1cb4f25c32af12fdc861bca830e89649b2fcb6ec32ba32c6550"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="tp6.0企业建站系统交流" title="tp6.0企业建站系统交流"></a>
+ PCFCMS QQ交流群:587884271
+ <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=961b6839e392f1cb4f25c32af12fdc861bca830e89649b2fcb6ec32ba32c6550">
+ <img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="tp6.0企业建站系统交流" title="tp6.0企业建站系统交流"></a>
 
 #### 演示站后台:[<a href='http://demo.pcfcms.com' target="_blank"> 查看 </a>]       
 <a href='http://demo.pcfcms.com/login.php' target="_blank">http://demo.pcfcms.com/login.php</a>  账号：pcfcms  密码：pcfcms.com
